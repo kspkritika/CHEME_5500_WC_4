@@ -1,5 +1,5 @@
 The Readme for Homework 4
-![Pika Pika Pikachuuuuuuuu](https://www.pinterest.com/pin/859483910108596613/)
+
 
 
 Welcome to GitHub Pages
@@ -13,6 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+![Pika Pika Pikachuuuuuuuu](https://www.pinterest.com/pin/859483910108596613/)
 Syntax highlighted code block
 
 # Header 1
