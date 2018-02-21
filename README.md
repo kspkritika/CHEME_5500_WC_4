@@ -22,6 +22,12 @@ and 100, and prints to the terminal. Add that to the master branch.
 6. Checkout your new website! URL: username.github.io/CHEME 5500 WC 4 (where username is
 YOUR username).
 
+## Last but definitely not the least.... Expecto Patronum.... there is magic in everything 
+
+
+
+![harry-potter-patronus-credit-jonny-duddle](https://user-images.githubusercontent.com/35979747/36509627-41671cf2-172e-11e8-9eff-2fce6e967367.jpg)
+
 
 
 Welcome to GitHub Pages
